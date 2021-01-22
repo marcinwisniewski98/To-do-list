@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
                     et_deadlineTime.setText("");
                     showTasksOnListView(dataBaseHelper);
                 } else
-                    Toast.makeText(MainActivity.this, "Error creating customer", Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, "Task already exists!", Toast.LENGTH_LONG).show();
             }
         });
 
