@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">To do list</string>
+    <string name="taskName">Task name</string>
+    <string name="deadlineDate">Set deadline date...</string>
+    <string name="deadlineTime">Set deadline time...</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+</resources>
