@@ -24,7 +24,11 @@ S22-32
 **task added**</br>
 !['task added'](/readme_img/added_task.jpg) </br></br>
 
-**task name validation**</br>
+**delete task by click on it**</br>
+!['task delete'](/readme_img/task_delete_1.jpg) </br>
+!['task delete2'](/readme_img/task_delete_2.jpg) </br></br>
+
+**task name validation** </br>
 !['task name validation'](/readme_img/adding_task_error.jpg) </br></br>
 
 ## Inspirations
